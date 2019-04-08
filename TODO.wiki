@@ -1,0 +1,4 @@
+== TODO ==
+	* [ ] [[Write basic Crawler for lolesports]]
+	* [ ] [[Create SQlite3 DB]]
+	* [ ] [[Write Stats Package]]
